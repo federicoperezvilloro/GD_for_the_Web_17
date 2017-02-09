@@ -1,0 +1,47 @@
+Title: Week 2
+
+----
+
+Dates: February 23
+
+----
+
+Text: 
+
+* Discussion on: A Vernacular Web and By Design
+* 5 minute presentations of students collections ((link:/projects/digital-archaeology text: Step 1 popup: yes))
+* (link: https://docs.google.com/a/risd.edu/document/d/1O2_pNxlQoJeYYv79XR1YaZdv7gOfDBsUo-hU1oZluEo/edit?usp=sharing text: Exercise: Creating a Taxonomy popup: yes)
+
+Break (15 mins)
+
+* Lecture: HTML Basics Part 2
+* (link: https://www.codecademy.com/learn/web text: Codecadmy HTML and CSS Units 2-3 popup: yes)
+
+Break (15 mins)
+
+* P1 (Step 2) individual working time: Based on the sorting exercise choose 1 taxonomy to order your collections. Create a webpage (or update your presentation) based on your selected taxonomy and express its relationships. Use any of the following HTML elements to add structure and hierarchy to the page: div, span, h1, h2, h3, h4, strong, em, ol, ul, li. 
+* Link your collection to your class site with the name "Taxonomy". 
+* Instructions for next week 
+
+</br>
+
+###For Next Week
+
+* Read (link: /library/arranging-ones-books/ text: Brief Notes on the Art and Manner of Arranging one’s books popup: yes), Georges Perec
+* Read (link: /library/the-cobweb text: The Cobweb popup: yes), Jill Lepore
+* Create 3 discussion questions and add them to the (link: https://docs.google.com/a/risd.edu/document/d/1Ox5pFPeq0cOv6ppd0rpWHrg78WPCwAaYa8aAxxqSoeU/edit?usp=sharing text: Google Doc popup: yes):
+* Finalize Codecademy Units 2-3
+* Continue working on your Taxonomy. Be prepared to discuss it with the group
+
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 
+
+----
+
+Current: 0

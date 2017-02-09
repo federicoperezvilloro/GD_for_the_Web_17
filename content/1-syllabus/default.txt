@@ -1,0 +1,147 @@
+Title: Syllabus
+
+----
+
+Text: 
+
+
+This course was developed in 2017 in collaboration with (link: http://chrishamamoto.com/ text: Christopher Hamamoto popup: yes). It runs in tandem with his Interactive 1 class at California College of the Arts (CCA).
+
+</br>
+### Course Overview
+</br>
+
+This course will explore the possibilities of design online from a conceptual, historical, and programmatic perspective.
+
+We will celebrate the Internet as a space for social and creative exchange as well as medium for independent expression. However we will also question the cultural contradictions embedded in online discourse and the specious motivations of some individuals and entities behind online platforms.
+
+Through projects, readings, workshops, and presentations we will explore the relevance of network technologies in the context of contemporary art and design practices. 
+
+Students will learn basic HTML and CSS programming along with methods for conceptualizing, designing, and developing websites. Outcomes won't necessary be practical, nor pragmatically functional. Instead we will strive for a poetic understanding of design and the Internet as mediums for critical research and political action.
+
+</br>
+### Learning Outcomes
+</br>
+
+* Stimulate critical positions around design principles within networked technologies 
+* Develop technical skills to produce functioning websites
+* Analyze current digital aesthetics and their historical context
+* Understand the social and cultural implications of information flows online
+* Explore the Internet as a space that is public and private, and the political tensions embedded in such condition
+* Gain insight into the contemporary landscape of Internet-based art and design practices
+
+
+</br>
+### Format
+</br>
+
+Class meets once a week and centers on studio work and group critiques. Our activities will include:
+
+* Topic lectures and discussions
+* Assigned readings and discussions 
+* In-class exercises  and workshops
+* Independent working time 
+* Students research and presentations 
+
+</br>
+
+The course consists of 3 primary projects. These can be revised and polished until the end of the term and final submissions will be regraded.
+
+
+</br>
+### Schedule
+</br>
+
+02/16/2017 – 05/11/2017  
+
+* Project 1
+Week 1 – 5 (February 16 – March 16)
+
+* Project 2  
+Week 5 – 9 (March 16 – April 13)
+
+* Project 3
+Week 9 – 13 (April 13 – May 11)
+
+
+</br>
+### Material Requirements
+</br>
+
+* Personal Laptop
+* Sublime Text or Atomic for editing and updating code
+* Github pages for website hosting
+* Adobe CC for image/media generating and editing 
+* Phone, digital camera, scanner, screen capture, etc.
+
+
+</br>
+### Readings
+</br>
+
+* Each student will be responsible for presenting a short verbal summary of one reading, and leading a class discussion around it. Sign up for your week to present in (link: https://docs.google.com/a/risd.edu/document/d/1Ox5pFPeq0cOv6ppd0rpWHrg78WPCwAaYa8aAxxqSoeU/edit?usp=sharing text: this Google Doc popup: yes).
+* For every reading, each student must submit 3 questions to that same Google doc one day before the discussion.
+
+
+</br>
+### Attendance
+</br>
+
+Students are expected to be on time and remain in class for the entire period scheduled. Work missed due to any type of absence is the student’s responsibility. Three or more absences will result in a failing grade. Three arrivals later than 15 minutes after class begins equals an absence. Students are expected to inform the instructors prior to missing a class, and are responsible for making up any missed assignments by next class.
+
+
+</br>
+### Grading
+</br>
+
+* 60% ... Projects
+* 20% ... Exercises
+* 20% ... Reading presentation and participation
+
+</br>
+
+Letter grades represent the following:
+
+A = excellent
+
+Shows exceptional abilities in all areas.​ ​High quality work, risk taking and experimentation,​ ​receptive to criticism, ​positive attitude​ towards the classroom community​, full attendance and participation.
+
+B = good
+
+Shows a positive attitude toward learning and fullfilment of all class requirements. Finished work and class participation are proficient, but with room for improvement.  
+
+C = satisfactory
+
+Acceptable, ​but ​not exceptional. 
+
+D = unsatisfactory
+
+Failing to grasp the course basics​ and struggling with completing work, with class attendance, and participation​.
+
+F = failure
+
+
+</br>
+### Submitting your work
+</br>
+
+Projects should be clearly labelled and displayed in a considered manner. Students are expected to provide thorough documentation of their process and final outcomes. 
+
+Any exercise or project that you submit for grading must be uploaded to your class website before each class. Even if you are done with your work on your local computer, it will be considered late work if it is not visible on your class website. 
+
+If a project is not uploaded on time, it will be docked one letter grade per class meeting that it is late. You can resubmit your work at the end of the semester with revisions to be regraded. 
+
+At the end of the term, you will be required to submit an archival .zip file to document your projects. 
+
+</br>
+
+Please follow the instructions below:
+* Divide your materials into four folders: P1, P2, P3.
+Within each project folder, make three new folders: Project, Documentation, Description.
+* Put all of your project materials (code and required assets) into the Project folder.
+* In the Documentation folder, place a video screen capture (made using Quicktime) to concisely document your project.
+* Within the Description folder, place a text file containing a paragraph description of your project.
+* Make sure your assets are optimized for web so that the file sizes are as small as possible. All links on your class homepage should be working.
+* When you make the .zip file, send it to me over wetransfer.com.
+
+

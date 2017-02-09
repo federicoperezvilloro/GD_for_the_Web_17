@@ -1,0 +1,44 @@
+Title: Week 3
+
+----
+
+Dates: March 2
+
+----
+
+Text: 
+
+* Discussion on The Art and Manner of Arranging one's books and The Cobweb
+* Lecture: Internet and Interface Art
+
+Break (15 mins)
+
+* Presentations and group critique on Step 2
+
+Break (15 mins)
+
+* Technical lecture 3: CSS Basics Part 1
+* (link: https://www.codecademy.com/learn/web text: Codecadmy HTML and CSS Units 4-5 popup: yes)
+* Instructions for next week
+
+</br>
+
+###For Next Class
+
+* Read (link: /library/the-index text: The Index popup: yes), J.G. Ballard
+* Create 3 discussion questions and add them to the (link: https://docs.google.com/a/risd.edu/document/d/1Ox5pFPeq0cOv6ppd0rpWHrg78WPCwAaYa8aAxxqSoeU/edit?usp=sharing text: Google Doc popup: yes):
+* Finalize Codecademy Units 4-5
+* Continue working on your Taxonomy. Unite its formal and conceptual representation. Link CSS to your webpage and begin positioning elements to show interesting relationships. Use the following CSS properties: padding, border, margin, position, display, float, top, right, bottom, left, height, width. Upload all updates and link them from your class site. 
+* Start working on Step 3. Develop 2 proposals for how you intend to introduce your collection into a larger cultural or political situation. Would you add new content? Or focus on elements you already have? Distil the poetics of your exploration...Turn your website into an engaging experience for an outside audience. Illustrate your proposals with digital sketches (illustrator, indesign, etc.). Print your sketches in 11 x 17 sheets of paper.
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 
+
+----
+
+Current: 0

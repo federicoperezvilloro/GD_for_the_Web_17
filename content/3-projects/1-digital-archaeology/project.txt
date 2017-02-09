@@ -1,0 +1,157 @@
+Title: Digital Archeology
+
+----
+
+Color: #333
+
+----
+
+Text: 
+
+###Overview
+
+</br>
+
+This project investigates contemporary aesthetics in the Internet.
+
+Computer graphics respond to the evolution of computational power in relation to user’s needs and desires. They are the results of collaboration and compromises between designers, engineers, computer users and corporate interests.
+
+Design for the web operates within parameters – constantly in-flux as new technologies, platforms, and social trends emerge and recalibrate one and another.
+
+Increasingly, we see the distinction between the human hand and the output of algorithms, software and computers blurring. Perhpas most tellingly by the emerging need to design for non-human entities.
+
+And while many of these factors are outside of most designers control, graphics are a crucial component of the web as they communicate both the content and the structure of the spaces we navigate. Often, the design of an interface will prescribe or enable visual form in unexpected ways.
+
+With an archeologist mindset we will track the technical and cultural reasons for the current state of graphics online. Creating taxonomies and timelines of forms and features, we will look at how design principles can been implemented but also “misused” in inventive ways. 
+
+</br>
+
+###Learning Outcomes
+
+</br>
+
+* Identify the current state of internet aesthetics, and understand the technical, social, and historical context that led to these conditions.
+* Develop a sensibility to the unstable technological landscape.
+* Learn basic HTML and CSS to produce simple webpages.
+
+</br>
+
+###Requirements
+
+</br>
+
+* 5 minute presentation on your collection 
+* Online interface to showcase a collection of at least 20 images / graphics / forms
+* A website that recontextualizes your collection through navigation
+
+</br>
+
+###Readings
+
+</br>
+
+* (link: /library/vernacular-web/ text: A Vernacular Web popup: yes), Oliana Lialina   
+* (link: /library/by-design/ text: By Design popup: yes), Alice Rawsthorne 
+* (link: /library/arranging-ones-books/ text: Brief Notes on the Art and Manner of Arranging one’s books popup: yes), Georges Perec
+* (link: /library/the-cobweb text: The Cobweb popup: yes), Jill Lepore
+* (link: /library/the-index text: The Index popup: yes), J.G. Ballard
+
+</br>
+
+###Step 1
+
+</br>
+
+Choose a UI element from (link: https://docs.google.com/a/risd.edu/document/d/1n1FA7J-lM1dbM5g0nlWmoHd0tGc5qlxJGkn3RYVLtmk/edit?usp=sharing text: this list popup: yes), or propose your own as the basis for a taxonomy to investigate. If you do choose your own, it should be something very specific (the smiling emoji not all emojis), but the sources for exploration are quite open. Keep in mind you must be able to find image examples and trace their sources when collecting references. Select something around which you have an opinion, curiousity or emotional connection.
+
+Consider the technical and social context in which your UI element exists. How do people interact with it? Do internet load times influence the visual forms of these items? Does a subgroup, political agenda, or technological limitation prescribe certain attributes? When and by whom were they developed.
+
+Collect at least 40 images that illustrates your selected elements breadth and history, and organize them in a simple webpage. Present your webpage as a 5 minute presentation to the class discussing the function of the UI element (how does it work and what it does), your collection as a whole, its history, and its social context.
+
+Due Class 2: Februray 23
+
+</br>
+
+###Step 2
+
+</br>
+
+Carefully analyze your collection and consider its connections. What are its formal attributes? On what platforms or in what geographic locations did they originate? How did the circulation of these forms online change their meaning?
+
+Using your findings, create a website to show and describe the relationships between your collected images. Expose a different understanding of your collection — for instance you could map a single collection by time, formal attributes, designers, sources, and so on. Think critically about what new insights these mappings can provide and choose one to interrogate. 
+
+Use inventive logics to organize your collection and basic styling (position, color, scale) to create meaningful sequences.
+
+Due Class 3: March 2
+
+</br>
+
+###Step 3
+
+</br>
+
+Think about the meaning of your selected set of graphics within a contemporary context. Focus on your point of view as a designer and critical thinker and reevaluate your collection into a larger cultural debate. 
+
+What do these collections tell us about our screen-based existence? What macro discourses are embedded into the microcosms of our phones? Is it important Facebook adds a “thumbs down” into their platform? How are emojis superseding other forms of communication? Does investigating the past help us reflect about the present and modify the future? 
+
+Activate your collection by creating a navigation system to interact with it. Consider how linking, scrolling, hover states, and other interactions add new insights into your collections meaning. Zoom in and blow up. Dissect and reassemble. Rotate and reposition. Print your collection out and reintroduce it to the screen via digital photography, and scanning. Introduce new content which complicates and provides insight into your collection. Think how your interaction schema invokes and complicates the UI elements you are displaying, while at the same time getting at a larger societal issue of the internet. 
+
+Your website has to be published, interactive, and self-explanatory — a complete critical piece of work. 
+
+Due Class 5: March 16
+
+</br>
+
+###Schedule
+
+</br>
+
+* Class 1: February 16
+    * Intro Project 1
+    * Students start researching UI elements
+
+* Class 2: February 23
+    * 5 Minute presentations on collections (Step 1)
+    * In class exercise: Creating a Taxonomy
+    * Students start working on Step 2
+
+* Class 3: March 2
+
+    * Group critique on Step 2
+    * Proposals and digital sketches for Step 3
+
+* Class 4: Mon Jan 30
+    * Group critique on taxonomy status and proposals for Step 3
+
+* Class 5: Weds Feb 01
+    * Final Crit on Step 3
+
+</br>
+
+###References
+
+</br>
+
+* (link: https://archive.org/web/ text: The Wayback Machine popup: yes)
+* (link: http://www.cameronsworld.net/ text: Cameron's World popup: yes), Cameron Askin
+* (link: http://www.scrollbarcomposition.com/ text: Scrollbar Compositions popup: yes), Jan Robert Leegte
+* (link: http://datenform.de/mapeng.html text: Map popup: yes), Aram Bartholl
+* (link: http://www.easylife.org/desktop/ text: Desktop is popup: yes), Alexi Shulgin
+* (link: http://geogoo.net/ text: GeoGoo popup: yes), JODI
+* (link: http://www.constantdullaart.com/site/html/new/youtubeasasubject.html text: Youtube as Subject popup: yes), Constant Dullaart
+* (link: http://ilikethisart.net/?p=12913 text: Collages and prints popup: yes), Anders Clausen
+* (link: http://beautifuldecay.com/2015/08/13/emilio-gomariz-choreographs-mac-folders-create-colorful-gradients-visuals/text: Macintosh/Lab popup: yes), Emilio Gomariz 
+* (link: http://maadonna.com/ text: Maadonna popup: yes), Kim Asendorf and Emilio Gomariz
+* (link: http://recursor.me/ text: Recursor popup: yes), Brian James
+* (link: https://vimeo.com/97129007 text: The Poetics of Space popup: yes), Daniel Giuditta
+* (link: http://mypeaceisyourpiece.space/ text: My Space is Your Piece popup: yes), Silvio Lorusso
+* (link: http://www.abstractbrowsing.net/ text: Abstract Browsing popup: yes), Rafaël Rozendaal
+* (link: http://work.jiwonpark.kr/Captcha-Typefaces text: Captcha Typefaces popup: yes), Jiwon Park
+* (link: http://juerglehni.com/works/flood-fill text: Flood Fill popup: yes), Jürg Lehni
+* (link: https://studiomoniker.com/projects/do-not-touch text: Do Not Touch popup: yes), Studio Moniker
+* (link: https://vimeo.com/135735680 text: Unpatentable Multitouch Aerobics popup: yes), Liat Berdugo
+* (link:http://0100101110101101.org/catt/ text: Catt popup:yes), Eva and Franco Mattes
+
+
+
+

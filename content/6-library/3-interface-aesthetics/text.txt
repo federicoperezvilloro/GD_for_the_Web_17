@@ -1,0 +1,41 @@
+Title: Interface Aesthetics
+
+----
+
+Subtitle: An Introduction
+
+----
+
+Author-first: Jason
+
+----
+
+Author-last: Huff
+
+----
+
+Year: 2012
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link: (link: http://rhizome.org/editorial/2012/aug/3/interface-aesthetics/ popup:yes)
+
+----
+
+Further-metadata: 
+
+----
+
+Text: 
+
+(image: interface-1.png)
+
+Everyday we use digital tools to create, edit, and document our work. We click fastidiously into the graphical user interface (GUI) of applications, seeing expected results while trying to ignore the friction of bad design, failed UX, and glitches. Most actions are conducted successfully and the interface holds its transparent position. But despite the GUI’s seemingly innocuous presence, its aesthetic leaches its way into our own. How we view our creative process and documentation is minutely and incrementally shifted by the frame of the interfaces we routinely use.
+
+----
+
+Selected-image:

@@ -1,0 +1,106 @@
+Title: Resources
+
+----
+
+Text: 
+
+##Lectures
+
+</br>
+
+(link: resources/internet-aesthetics.pdf text: Internet History and Aesthetics)
+(link: resources/html-basics-p1.pdf text: HTML Basics Part 1)
+
+...
+
+</br>
+
+##Exercises
+
+</br>
+
+(link: https://docs.google.com/a/risd.edu/document/d/1CHkMaktZV9Xymf9W6m0gg9Ubv2XDl2xbp0Crm5TlK2Y/edit?usp=sharing text: Setting Up Your Class Site)
+(link: https://docs.google.com/a/risd.edu/document/d/1O2_pNxlQoJeYYv79XR1YaZdv7gOfDBsUo-hU1oZluEo/edit?usp=sharing text: Creating a Taxonomy popup: yes)
+
+</br>
+
+##Files
+
+</br>
+
+(link: /resources/presentation-template.zip text:Presentation Template)
+
+</br>
+
+##Basics
+
+</br>
+
+For code editing, we will use (link: http://www.sublimetext.com text: Sublime Text popup: yes) or (link: https://atom.io/ text: Atom)
+For website hosting, we will use (link: https://pages.github.com/ text: Github Pages popup: yes)
+For code learning, we will use (link:https://www.codecademy.com/ text: Codecademy popup: yes)
+
+</br>
+
+##Overview
+
+</br>
+
+(link: http://learn.shayhowe.com/ text: Shay Howe's Guide to HTML & CSS)
+(link: http://learnlayout.com/ text: Learn Layout)
+(link: http://freecodecamp.com/ text: Free Code Camp)
+
+</br>
+
+##CSS
+
+</br>
+
+(link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ text: FlexBox popup: yes)
+(link: http://codepen.io/team/css-tricks/pen/jqzNZq text: FlexBox Example popup: yes)
+(link: http://getbootstrap.com/css/ text: Bootstrap popup: yes)
+(link: https://css-tricks.com/examples/ShapesOfCSS/ text: The Shapes of CSS popup: yes)
+(link: https://css-tricks.com/almanac/properties/a/animation/ text: CSS Animations popup: yes)
+(link: ​http://bennettfeely.com/clippy/ text: Clippy CSS popup: yes)
+(link: https://daneden.github.io/animate.css/ text: animate.css popup: yes)
+(link: http://navnav.co/ text: Nav Bars popup: yes)
+
+</br>
+
+##jsFiddles
+
+</br>
+
+(link: http://jsfiddle.net/w0a3Lgx6/ text: Click a button and toggle)
+(link: http://jsfiddle.net/cvyxp15z/ text: Mouseenter, mouseleave) and (link: http://jsfiddle.net/o1udqwbm/ text: Hover)
+(link: http://jsfiddle.net/p0uxmv0n/ text: Scroll and alert)
+(link: http://jsfiddle.net/70Lnbvor/ text: Accordion slideToggle)
+(link: https://jsfiddle.net/mf1vdqb0/9/ text: Turn on and off lights with button)
+(link: http://jsfiddle.net/845rzqy2/13/ text: jQuery Examples)
+(link: http://jsfiddle.net/r0g0y7f1/8/ text: Change background color)
+(link: http://jsfiddle.net/9SDLw/ text: Scroll to anchor smoothly)
+(link: http://jsfiddle.net/vxepqwd4/ text: Draggable div)
+
+</br>
+
+##Troubleshooting
+
+</br>
+
+If you find yourself stuck while writing code, remember to be patient. If you haven't already, try breaking your problem down into smaller, more manageable parts. Search Google or (link: http://stackoverflow.com/ text: Stack Overflow popup: yes) for how to solve those parts, one at a time. Remember that most of the time you spend writing code will be fixing bugs. (And sometimes bugs will allow you to discover something new you haven't ever seen before!) 
+
+However, if you reach a point in which you absolutely need help and must ask another human, please considerately phrase your code question in the form of a (link: http://jsfiddle.net/ text: jsFiddle popup: yes). (To do this, type your code in the appropriate boxes and press "Run". Once it looks right, press "Save".  Copy and paste the URL at the top.) In an email, explain everything you know so far about the problem and paste the link to the jsFiddle.
+
+</br>
+
+## More
+
+</br>
+
+(link: http://6.470.scripts.mit.edu/2015/lectures text: MIT Code Lectures)
+(link:http://eloquentjavascript.net/ text: Eloquent Javascript)
+(link:https://www.atlassian.com/git/ text: Getting Git Right)
+(link: http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html text: Unix for Mac OS X Users)
+(link: http://copypastecharacter.com/ text: Copy Paste Character)
+(link: http://devdocs.io/ text: Devdocs)
+

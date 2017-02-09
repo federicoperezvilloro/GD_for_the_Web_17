@@ -1,0 +1,57 @@
+Title: Week 1
+
+----
+
+Dates: February 16
+
+----
+
+Text: 
+
+* Class introductions 
+* Class overview
+* Sign up for (link: https://docs.google.com/a/risd.edu/document/d/1Ox5pFPeq0cOv6ppd0rpWHrg78WPCwAaYa8aAxxqSoeU/edit?usp=sharing text: reading presentations popup: yes)
+* Follow steps in: (link: https://docs.google.com/a/risd.edu/document/d/1CHkMaktZV9Xymf9W6m0gg9Ubv2XDl2xbp0Crm5TlK2Y/edit?usp=sharing text: Exercise: Setting Up Class Site popup: yes)
+
+Break (15 mins)
+
+* Explain (link:/projects/digital-archaeology text: P1 popup: yes)
+* Lecture: Internet History and Aesthetics
+* Students select their UI element and add their name to (link: https://docs.google.com/a/risd.edu/document/d/1n1FA7J-lM1dbM5g0nlWmoHd0tGc5qlxJGkn3RYVLtmk/edit?usp=sharing text: this list popup: yes)
+* Students start researching their UI elements and collecting 40 visual examples.
+
+
+Break (15 mins)
+
+* Lecture: HTML Basics Part 1
+* (link: https://www.codecademy.com/learn/web text: Codecadmy HTML and CSS Unit 1 popup: yes)
+* Instructions for next week
+
+</br>
+
+###For Next Week
+
+* Make sure your class site is up and running. Share its url with me by email.
+* Read (link: /library/vernacular-web text: A Vernacular Web popup: yes), Oliana Lialina
+* Read (link: /library/by-design/ text: By Design popup: yes), Alice Rawsthorne 
+* Create 3 discussion questions and add them to the (link: https://docs.google.com/a/risd.edu/document/d/1Ox5pFPeq0cOv6ppd0rpWHrg78WPCwAaYa8aAxxqSoeU/edit?usp=sharing text:  Google Doc popup: yes):
+* Finalize Codecademy Unit 1
+* Finalize researching and collecting your UI elements
+* Organize your UI research into a 5 minute presentation and build a single webpage coded using the following HTML elements: p, br, a, img. Work on your presentation using the (link:/resources/presentation-template.zip text:Presentation Template)
+
+
+----
+
+Title: Week 1
+
+----
+
+Project-start: P1
+
+----
+
+Project-end: 
+
+----
+
+Current: 1

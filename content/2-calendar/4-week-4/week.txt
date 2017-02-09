@@ -1,0 +1,37 @@
+Title: Week 4
+
+----
+
+Dates: March 9
+
+----
+
+Text: 
+
+* Discussion on The Index
+* Check in on Taxonomy status (using CSS) and group critique on proposals
+
+Break (15 mins)
+
+* Lecture: CSS Basics Part 2 
+* (link: https://www.codecademy.com/learn/web text: Codecadmy HTML and CSS Unit 6 popup: yes) 
+* Instructions for next week  
+
+</br>
+
+###For Next Week
+
+* Finalize Codecademy Unit 6
+* Finalize your project. Based on the class feedback select one of your proposals. Enhance your Taxonomy using positioning, type, and color. Try using the following CSS properties: font-style, font-weight, font-size, font-family, text-align, line-height, letter-spacing, text-transform, background. Be prepared to discuss your final project with the group.
+
+----
+
+Project-start: 
+
+----
+
+Project-end: 
+
+----
+
+Current: 0

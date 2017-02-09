@@ -1,0 +1,41 @@
+Title: By Design
+
+----
+
+Subtitle: The pros and cons of new digital interface design
+
+----
+
+Author-first: Alice
+
+----
+
+Author-last: Rawsthorn
+
+----
+
+Year: 2015
+
+----
+
+Further-authors: 
+
+----
+
+Download-sentence: Link: (link: https://frieze.com/article/design-8 popup:yes)
+
+----
+
+Further-metadata: Frieze, June • July • August 2015
+
+----
+
+Text: 
+
+(image: scroll.jpg)
+
+If you log on to one of the bigger, busier websites, like The New York Times or the Guardian, you may well spot three horizontal lines of equal length forming a small square at the top of the screen. It is known to techies as the ‘hamburger icon’, even though it is rather a stretch to read the upper and lower lines as the two halves of a bun, and the middle one as the meat, cheese and whatever else is stuffed between them. Oddly named or not, those three lines have appeared on more and more websites in the last year or two, mostly to identify a menu that appears from the side of the screen to reveal a list of the contents.
+
+----
+
+Selected-image:

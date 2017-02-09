@@ -1,0 +1,13 @@
+Title: GD for the Web
+
+----
+
+Author: Federico Pérez Villoro with Chris Hamamoto
+
+----
+
+Description: class site for GD for the Web, spring 2017
+
+----
+
+Copyright: (date: Year) 
